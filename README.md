@@ -1,7 +1,7 @@
 # Heil Erika
 ## MATLAB and Arduino code to process music (like Erika) and to present the power of each beat into Voltmeter
 
-If you have a voltmeter, with indicator being able to move from horizontal to vertical, when you stick the Fürher's hand to the indicator and the body next to it, you will find it salutes with the music, which is very funning (just for entertaining, nothing politically)
+If you have a voltmeter, with indicator being able to move from horizontal to vertical, when you stick the Fürher's hand to the indicator and the body next to it, you will find it salutes with the music, which is very funny (just for entertaining, nothing politically)
 
 It will look like this:
 
